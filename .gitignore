@@ -1,4 +1,6 @@
 node_modules/
+android/
+www/
 temp/
 *.DS_Store
 *.log
