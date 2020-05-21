@@ -100,5 +100,7 @@ const options = {
 ## Notes:
 1. You need to have Android studio installed and configured in your machine
 2. After few second from launching the app in your native device you can see the Appsflyer dashboard updated
+
+
 ![alt text](https://github.com/sahibammar/AppsFlyerTest/raw/master/src/common/images/appsflyer_dashboard_snapshot.jpg "Logo Title Text 1")
 
