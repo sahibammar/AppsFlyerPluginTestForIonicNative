@@ -1,22 +1,22 @@
 # AppsFlyerTest
-Testing AppsFlyer plugin for Ionic native which uses Capacitor. 
+Testing AppsFlyer plugin for Ionic native which uses Capacitor. The project is tested for Android.
 
-Building node_modules:
+### Building node_modules:
 ```
 npm install
 ```
 
-Installing AppsFlyer plugin for native Ionic using Capacitor:
+### Installing AppsFlyer plugin for native Ionic using Capacitor:
 ```
 npm install cordova-plugin-appsflyer-sdk
 npm install @ionic-native/appsflyer
 ionic cap sync
 ```
-Running the project:
+### Running the project:
 ```
 ionic serve
 ```
-Building the Android native app:
+### Building the Android native app:
 ```
 npm run build
 npx cap add android
@@ -94,4 +94,5 @@ const options = {
  }
 ```
 
+![alt text](https://github.com/sahibammar/AppsFlyerTest/raw/master/src/common/images/appsflyer_dashboard_snapshot.jpg "Logo Title Text 1")
 
