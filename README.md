@@ -1,2 +1,2 @@
 # AppsFlyerTest
-Testing AppsFlyer plugin for Ionic native
+Testing AppsFlyer plugin for Ionic native which uses Capacitor 
