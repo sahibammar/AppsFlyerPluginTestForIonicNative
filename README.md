@@ -1,5 +1,5 @@
-# AppsFlyerTest
-Testing AppsFlyer plugin for Ionic native which uses Capacitor. The project is tested for Android.
+# AppsFlyer Plugin Test For Native Ionic App 
+The purpose pf this project is to test AppsFlyer plugin for Ionic native. Here we are using Capacitor instead of Cordova. The project is tested for Android on a physical Android device.
 
 ### Building node_modules:
 ```
