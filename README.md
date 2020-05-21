@@ -23,7 +23,9 @@ npx cap add android
 npx cap copy
 npx cap open android
 ```
-## What do you need to change in your script:
+## What has been changed in scripts:
+The required changes are already applied to this project so you dont need to do these changes your self. However if your are interested to know what has been changed, here is a summary:
+ 
 ### Changes to app.module.ts
 1. Importing Appsflyer. To be added to app.module.ts
 ```
