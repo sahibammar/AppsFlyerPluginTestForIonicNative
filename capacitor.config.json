@@ -1,0 +1,14 @@
+{
+  "appId": "com.development.test",
+  "appName": "AppsFlyer Test",
+  "bundledWebRuntime": false,
+  "linuxAndroidStudioPath": "/home/awitwit/bin/android-studio/bin/studio.sh",
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

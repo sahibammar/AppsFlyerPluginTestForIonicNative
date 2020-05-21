@@ -1,0 +1,7 @@
+{
+  "name": "AppsFlyerTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
