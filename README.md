@@ -49,7 +49,7 @@ import { Appsflyer } from "@ionic-native/appsflyer/ngx";
 3. Providing devkey acquired from Appsflyer. To be added to home.page.ts
 ```
 const options = {
-     devKey: "...",
+     devKey: "...", -- replace this with devkey you get from Appsflyer dashboard
      isDebug: true,
      onInstallConversionDataListener: true
    };
@@ -94,5 +94,9 @@ const options = {
  }
 ```
 
+
+## Notes:
+1. You need to have Android studio installed and configured in your machine
+2. After few second from launching the app in your native device you can see the Appsflyer dashboard updated
 ![alt text](https://github.com/sahibammar/AppsFlyerTest/raw/master/src/common/images/appsflyer_dashboard_snapshot.jpg "Logo Title Text 1")
 
